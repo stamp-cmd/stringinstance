@@ -12,7 +12,7 @@
 const stringinstance = require("stringinstance")
 ```
 
-## Usage
+## Usage (Hopefully functional)
 
 ### Check Instances of string
 
