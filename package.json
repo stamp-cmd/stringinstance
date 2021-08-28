@@ -1,0 +1,21 @@
+{
+    "name": "stringinstance",
+    "version": "0.1.0",
+    "description": "Package that check instances of string",
+    "main": "index.js",
+    "bin": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "license": "MIT",
+    "type": "commonjs",
+    "author": {
+        "name": "stampkan",
+        "email": "stampkantantlaptop@hotmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/stamp-cmd/stringinstance"
+    },
+    "markdown": "github"
+}
