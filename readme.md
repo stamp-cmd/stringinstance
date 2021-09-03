@@ -4,6 +4,14 @@
 
 ### Package that check instances of string
 
+## Installation
+
+### Install via npm
+
+```JavaScript
+npm install stringinstance
+```
+
 ## Importing
 
 ### The module is export with ES5
